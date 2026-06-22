@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm a senior SDE with 15+ years of experience in embedded systems and micro-controllers specializing in RF and Quantum Crystal Healing and Essential Oils! Let's connect!
 
 <!--
 **aidanfgre/aidanfgre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
